@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exclude the following files from being ignored by Git
+*.pyc
+*.pyw
+
+settings.txt
